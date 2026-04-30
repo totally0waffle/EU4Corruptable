@@ -90,10 +90,10 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 - [x] All Muscovite subjects start as independent.
 - [ ] Novgorod and Muscovy Swap places
-- [ ] Belarus exists.
-- [ ] Kiev and Galicia are both independent.
-- [ ] Theodoro and Crimea swap borders.
-- [ ] The great horde now begins as a merchant republic & Circassia is now a horde.
+- [x] Belarus exists.
+- [x] Kiev and Galicia are both independent.
+- [x] Theodoro and Crimea swap borders.
+- [x] The great horde now begins as a merchant republic & Circassia is now a horde.
 
 3. Most of Europe
 

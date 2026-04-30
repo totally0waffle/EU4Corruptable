@@ -1,7 +1,7 @@
 #Chelm
 
-owner = ZAZ
-controller = ZAZ  
+owner = VOL
+controller = VOL  
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = wool
 base_manpower = 1
 capital = "Chelm"
 is_city = yes 
-add_core = ZAZ
+add_core = VOL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
