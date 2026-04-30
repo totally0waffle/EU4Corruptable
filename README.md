@@ -82,13 +82,13 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 1. The Baltics
 
-- [ ] Finland, Sapmi, Estonia & Danzig all start independent
+- [x] Finland, Sapmi, Estonia & Danzig all start independent
 - [x] Sweden and Denmark swap positions
 - [x] Finland and Norway swap positions
 
 2. The Rus
 
-- [ ] All Muscovite subjects start as independent.
+- [x] All Muscovite subjects start as independent.
 - [ ] Novgorod and Muscovy Swap places
 - [ ] Belarus exists.
 - [ ] Kiev and Galicia are both independent.
