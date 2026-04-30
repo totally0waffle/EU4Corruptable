@@ -66,7 +66,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 2. Norse
 
-- [ ] Sweden, Denmark & Norway start norse now.
+- [x] Sweden, Denmark & Norway start norse now.
 
 3. Celtic
 
@@ -76,15 +76,15 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 - [ ] At the start of the game you can now swap to protestant, reformed or hussite. No more waiting for reformation.
 
-- [ ] All religions can now swap to all religions. No restrictions other than reforming to tribal religions including Celtic, Norse and Hellenic.
+- [x] All religions can now swap to all religions. No restrictions other than reforming to tribal religions including Celtic, Norse and Hellenic.
 
 # States and Starting Map
 
 1. The Baltics
 
 - [ ] Finland, Sapmi, Estonia & Danzig all start independent
-- [ ] Sweden and Denmark swap positions
-- [ ] Finland and Nooway swap positions
+- [x] Sweden and Denmark swap positions
+- [x] Finland and Norway swap positions
 
 2. The Rus
 
