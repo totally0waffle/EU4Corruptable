@@ -89,7 +89,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 2. The Rus
 
 - [x] All Muscovite subjects start as independent.
-- [ ] Novgorod and Muscovy Swap places
+- [x] Novgorod and Muscovy Swap places
 - [x] Belarus exists.
 - [x] Kiev and Galicia are both independent.
 - [x] Theodoro and Crimea swap borders.
