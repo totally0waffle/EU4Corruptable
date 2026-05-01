@@ -97,7 +97,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 3. Most of Europe
 
-- [ ] Bohemia loses silesia. 
+- [x] Bohemia loses silesia. 
 - [ ] Austria loses tyorl and styria. 
 - [ ] Saxony loses thuringia. 
 - [ ] Burgundy swaps places with its subjects and has the option to form the netherlands also starts as a peasents republic (Paris commune w/o Paris). 
@@ -132,9 +132,9 @@ If you want an entirely new eu4 experience with the same map and same history lo
 Serbia is now a city state in belgrad.
 - [ ] North Macedonia exists.
 - [ ] Kosovo exists.
-- [ ] Croatia starts free.
-- [ ] Bosnia and Herzogovina swap places.
-- [ ] Bulgaria is independent and is an orthodox horde.
+- [x] Croatia starts free.
+- [x] Bosnia and Herzogovina swap places.
+- [x] Bulgaria is independent and is an orthodox horde.
 - [ ] All ottoman balkan lands now become city states (outside of the formerly mentioned).
 - [ ] Wallachia and Moldova swap places and the event to become a subject of hungary or poland no longer fires.
 - [ ] Transylvania exists.
@@ -155,7 +155,6 @@ Serbia is now a city state in belgrad.
 
 - [ ] Trebizond and the Timurids swap places. Karaman, Candar, Dulkair, Hisn Kayfa and Bitlis swap places with the timurid vassals.
 - [ ] Syria and Qara Qoyunlu swap places.
-- [ ] The ottomans and Aq Qoyunlu swap places.
 - [ ] Tunisia starts uncolonized now.
 - [ ] Morocco is now just Sus.
 - [ ] All Saudi Nations swap places with native tribes (TBD WHICH TRIBES).
