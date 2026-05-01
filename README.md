@@ -122,7 +122,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 - [ ] Naples now owns all of the aragonese land outside of iberia while the borders they had before are now occupied by tunis.
 - [ ] Venizia is now indpendent.
 - [ ] Venice is only in regusa and regusa gets all of their land.
-- [ ] Nitra is independent.
+- [x] Nitra is independent.
 - [ ] Mazovia is independent.
 - [ ] Krakow is independent.
 - [ ] Berlin is a city state.
@@ -136,8 +136,8 @@ Serbia is now a city state in belgrad.
 - [x] Bosnia and Herzogovina swap places.
 - [x] Bulgaria is independent and is an orthodox horde.
 - [ ] All ottoman balkan lands now become city states (outside of the formerly mentioned).
-- [ ] Wallachia and Moldova swap places and the event to become a subject of hungary or poland no longer fires.
-- [ ] Transylvania exists.
+- [x] Wallachia and Moldova swap places and the event to become a subject of hungary or poland no longer fires.
+- [x] Transylvania exists.
 - [ ] Cilli is now slovenia.
 - [ ] All greek venetian and genoan lands are uncolonized.
 - [ ] The knights and the Ottomans swap places.
