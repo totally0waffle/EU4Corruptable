@@ -105,26 +105,26 @@ If you want an entirely new eu4 experience with the same map and same history lo
 - [ ] Bavaria starts centralized but their missions lead them to balkanize. 
 - [ ] Brandenburg Swaps places with the teutons. 
 - [ ] Stettin requires wolgast not existing and holding all of their cores to form pomerania and vice verse for wolgast. Wolgast now starts in tunisia and stettin starts in the isles (both still in HRE) 
-- [ ] Ireland starts in the HRE.
-- [ ] Scotland has cornish culture.
-- [ ] England has welsh culture.
-- [ ] Whales exists and has french culture.
-- [ ] Cornwall exists and has Breton culture.
-- [ ] Brittany has English culture.
-- [ ] France has Breton culture.
-- [ ] France is now even more balkanized. Now only occupies Paris with a heavy development cost reduction.
-- [ ] Castille is also now balkanized.
-- [ ] Granada now owns the entire south coast of Iberia.
-- [ ] Navara now controls all of the province bordering the Pyreneese mountains.
-- [ ] Provence now only has Anjou.
-- [ ] The papal states now start in Newfoundland.
-- [ ] Rome is uncolonized.
-- [ ] Naples now owns all of the aragonese land outside of iberia while the borders they had before are now occupied by tunis.
+- [x] Ireland starts in the HRE.
+- [x] Scotland has cornish culture.
+- [x] England has welsh culture.
+- [x] Whales exists and has french culture.
+- [x] Cornwall exists and has Breton culture.
+- [x] Brittany has English culture.
+- [x] France has Breton culture.
+- [x] France is now even more balkanized. Now only occupies Paris with a heavy development cost reduction.
+- [x] Castille is also now balkanized.
+- [x] Granada now owns the entire south coast of Iberia.
+- [x] Navara now controls all of the province bordering the Pyreneese mountains.
+- [x] Provence now only has Anjou.
+- [x] The papal states now start in Newfoundland.
+- [x] Rome is uncolonized.
+- [x] Naples now owns all of the aragonese land outside of iberia while the borders they had before are now occupied by tunis.
 - [ ] Venizia is now indpendent.
-- [ ] Venice is only in regusa and regusa gets all of their land.
+- [x] Venice is only in regusa and regusa gets all of their land.
 - [x] Nitra is independent.
 - [ ] Mazovia is independent.
-- [ ] Krakow is independent.
+- [x] Krakow is independent.
 - [ ] Berlin is a city state.
 
 4. Balkans
@@ -139,24 +139,24 @@ Serbia is now a city state in belgrad.
 - [x] Wallachia and Moldova swap places and the event to become a subject of hungary or poland no longer fires.
 - [x] Transylvania exists.
 - [ ] Cilli is now slovenia.
-- [ ] All greek venetian and genoan lands are uncolonized.
+- [x] All greek venetian and genoan lands are uncolonized.
 - [ ] The knights and the Ottomans swap places.
 - [ ] Yugoslavia is now a formable.
 - [ ] All Balkan mountains and Hills get turned into farmland.
 - [ ] All Balkan Farmland and Plains get turned into steppes.
-- [ ] Every Balkan province starts with a fort.
+- [x] Every Balkan province starts with a fort.
 - [ ] Hagia Sophia and The Parthenon can now be moved.
-- [ ] Albania now controls all of the papal states lands that they had (aside from rome)
-- [ ] Albnias land is now owned by athens
+- [x] Albania now controls all of the papal states lands that they had (aside from rome)
+- [x] Albnias land is now owned by athens
 - [ ] Athens starts independent.
-- [ ] Greece is independent.
+- [x] Greece is independent.
 
 5. The Middle east and North Africa
 
-- [ ] Trebizond and the Timurids swap places. Karaman, Candar, Dulkair, Hisn Kayfa and Bitlis swap places with the timurid vassals.
+- [x] Trebizond and the Timurids swap places. Karaman, Candar, Dulkair, Hisn Kayfa and Bitlis swap places with the timurid vassals.
 - [ ] Syria and Qara Qoyunlu swap places.
-- [ ] Tunisia starts uncolonized now.
-- [ ] Morocco is now just Sus.
+- [x] Tunisia starts uncolonized now.
+- [x] Morocco is now just Sus.
 - [ ] All Saudi Nations swap places with native tribes (TBD WHICH TRIBES).
 - [ ] Georgia swaps places with Karabakh.
 - [ ] (more to come....)
@@ -169,7 +169,7 @@ Serbia is now a city state in belgrad.
 - [ ] Uraguay exists.
 - [ ] Indianapolis, Memphis, Albuquerque, Fresno and Cleveland are starting city state.
 - [ ] Wawa, Lehtbridge, Grand Prairie, Red Deer, Lloydminster and Brandon are starting city states.
-- [ ] The pope has touched down in detroit.
+- [x] The pope has touched down in newfoundland.
 - [ ] Greenland is independent.
 - [ ] Haiti is independent.
 - [ ] Argentina and England split control of the Falklands.
