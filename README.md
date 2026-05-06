@@ -129,7 +129,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 4. Balkans
 
-Serbia is now a city state in belgrad.
+- [ ] Serbia is now a city state in belgrad.
 - [ ] North Macedonia exists.
 - [ ] Kosovo exists.
 - [x] Croatia starts free.
