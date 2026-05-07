@@ -3041,7 +3041,80 @@ pagan = {
 		
 		heretic = { MESOAMERICAN_HERETIC }	
 	}
+	hellenic = {
 	
+		flags_with_emblem_percentage = 20
+		flag_emblem_index_range = { 1 4 }
+
+		color = { 153 0 76 }
+		icon = 14
+		allowed_conversion = {
+			catholic
+			anglican
+			hussite
+			protestant
+			reformed
+			orthodox
+			coptic
+			sunni
+			shiite
+			ibadi
+			buddhism
+			vajrayana
+			mahayana
+			confucianism
+			shinto
+			hinduism
+			sikhism
+			animism
+			shamanism
+			totemism
+			inti
+			nahuatl
+			mesoamerican_religion
+			norse_pagan_reformed
+			tengri_pagan_reformed
+			dreamtime
+			jewish
+			zoroastrian
+		}
+		country = {
+			defensiveness = 0.15
+			tolerance_own = 1
+		}
+		country_as_secondary = {
+			siege_ability = 0.1
+			defensiveness = 0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		allowed_center_conversion = {
+			orthodox
+			sunni
+			shiite
+			ibadi
+		}
+		
+		heretic = { ZAMIKAELITES STEPHANITES EUSTATHIANS }
+		fetishist_cult = yes
+		misguided_heretic = yes
+		
+		holy_sites = { 151 118 146 318 4737 }
+		
+		blessings = {
+			legitimize_government
+			encourage_warriors_of_the_faith
+			send_monks_to_establish_monasteries
+			promote_territorial_rights
+			will_of_the_martyrs
+		}
+	}
+	
+	harmonized_modifier = harmonized_christian
+	
+	crusade_name = CRUSADE
+}
 	norse_pagan_reformed = {
 		icon = 21
 		color = { 191 191 191 }
