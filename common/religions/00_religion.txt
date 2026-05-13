@@ -48,6 +48,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_own = 1
@@ -371,6 +372,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allow_female_defenders_of_the_faith = yes
 
@@ -439,6 +441,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_center_conversion = {
 			catholic
@@ -505,6 +508,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_center_conversion = {
 			catholic
@@ -672,6 +676,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_center_conversion = {
 			catholic
@@ -817,6 +822,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			stability_cost_modifier = -0.1
@@ -1010,6 +1016,7 @@ christian = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			defensiveness = 0.15
@@ -1604,6 +1611,7 @@ muslim = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_center_conversion = {
 			ibadi
@@ -1658,6 +1666,7 @@ muslim = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_center_conversion = {
 			sunni
@@ -1712,6 +1721,7 @@ muslim = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_center_conversion = {
 			sunni
@@ -1776,6 +1786,7 @@ eastern = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_conversion = {
 			vajrayana
@@ -1837,6 +1848,7 @@ eastern = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_conversion = {
 			mahayana
@@ -1898,6 +1910,7 @@ eastern = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		allowed_conversion = {
 			vajrayana
@@ -1959,6 +1972,7 @@ eastern = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_heretic = 2
@@ -2004,6 +2018,7 @@ eastern = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			land_morale = 0.1
@@ -2064,6 +2079,7 @@ dharmic = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_heathen = 1
@@ -2122,6 +2138,7 @@ dharmic = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			mil_tech_cost_modifier = -0.1
@@ -2769,6 +2786,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_own = 1
@@ -2816,6 +2834,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_heathen = 2
@@ -2861,6 +2880,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_own = 1
@@ -2911,6 +2931,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_own = 2
@@ -2966,6 +2987,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			land_morale = 0.1
@@ -3022,6 +3044,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_own = 1
@@ -3077,6 +3100,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			defensiveness = 0.15
@@ -3147,6 +3171,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			land_forcelimit_modifier = 0.10
@@ -3197,6 +3222,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			cav_to_inf_ratio = 0.25
@@ -3238,6 +3264,7 @@ pagan = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			shock_damage_received = -0.05
@@ -3293,6 +3320,7 @@ jewish_group = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		country = {
 			tolerance_own = 2
@@ -3452,6 +3480,7 @@ zoroastrian_group = {
 			dreamtime
 			jewish
 			zoroastrian
+			hellenic
 		}
 		province = {
 			local_missionary_strength = -0.02

@@ -37,7 +37,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 - [ ] Austria's government can now no longer declare war's, they get a bonus to their diplo rep and diplo slots and offer vasselization bonuses which will now be their only way to expand.
 
 6. France now starts revolutionary (mentioned later).
-- [ ] 
+- [x] 
 
 
 # Adjusted trade goods
@@ -48,7 +48,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 2. Gold inflation
 
-- [ ] Gold will now cause 4x inflation, but developing gold provinces will cost half as much.
+- [x] Gold will now cause 4x inflation, but developing gold provinces will cost half as much.
 
 3. Fish and Jewish nations
 
@@ -56,7 +56,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 4. Copper prices
 
-- [ ] Copper will cost half as much, Nassir's fault btw
+- [x] Copper will cost half as much, Nassir's fault btw
 
 # Religion
 
@@ -74,7 +74,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 4. Catholocism and Reformation
 
-- [ ] At the start of the game you can now swap to protestant, reformed or hussite. No more waiting for reformation.
+- [x] At the start of the game you can now swap to protestant, reformed or hussite. No more waiting for reformation.
 
 - [x] All religions can now swap to all religions. No restrictions other than reforming to tribal religions including Celtic, Norse and Hellenic.
 
@@ -145,10 +145,10 @@ If you want an entirely new eu4 experience with the same map and same history lo
 - [ ] All Balkan mountains and Hills get turned into farmland.
 - [ ] All Balkan Farmland and Plains get turned into steppes.
 - [x] Every Balkan province starts with a fort.
-- [ ] Hagia Sophia and The Parthenon can now be moved.
+- [x] Hagia Sophia and The Parthenon can now be moved.
 - [x] Albania now controls all of the papal states lands that they had (aside from rome)
 - [x] Albnias land is now owned by athens
-- [ ] Athens starts independent.
+- [x] Athens starts independent.
 - [x] Greece is independent.
 
 5. The Middle east and North Africa

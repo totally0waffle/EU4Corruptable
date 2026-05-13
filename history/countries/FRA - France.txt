@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudal_france_reform
+add_government_reform = revolutionary_empire
 primary_culture = breton
 add_accepted_culture = gascon
 add_accepted_culture = occitain
