@@ -31,7 +31,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 - [ ] You literally do not have a ruler, no elections nothing. Just a 4 4 4 "Commune".
 
 3. Prussia and Russia have swapped government mechanics
-- [ ] 
+- [x] 
 
 5. Austrian Government
 - [ ] Austria's government can now no longer declare war's, they get a bonus to their diplo rep and diplo slots and offer vasselization bonuses which will now be their only way to expand.
