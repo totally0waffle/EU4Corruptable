@@ -44,7 +44,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 1. Mamluks
 
-- [ ] The mamluks will now only start with grain trade good provinces, expanding into other land now will trigger an event to change trade goods to grain with no other option
+- [x] The mamluks will now only start with grain trade good provinces, expanding into other land now will trigger an event to change trade goods to grain with no other option
 
 2. Gold inflation
 
