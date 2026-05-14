@@ -52,7 +52,7 @@ If you want an entirely new eu4 experience with the same map and same history lo
 
 3. Fish and Jewish nations
 
-- [ ] If you religion is jewish you will now gain a bonus to fish provinces doubling the trade goods value.
+- [x] If you religion is jewish you will now gain a bonus to fish provinces doubling the trade goods value.
 
 4. Copper prices
 
