@@ -856,7 +856,7 @@ krantor_crane = {
 
 #Province modifiers, which have become monuments
 
-#Mountain of Riches - Potosí Silver Mines
+#Mountain of Riches - PotosÃ­ Silver Mines
 cerro_rico_modifier = {
 	potential = {
 		NOT = { has_dlc = "Leviathan" }
@@ -877,7 +877,7 @@ jewish_fish = {
 	trade_goods_size = 1
 }
 
-# Restored Great Mosque of Djenné for people without Leviathan
+# Restored Great Mosque of DjennÃ© for people without Leviathan
 great_mosque_djenne_modifier = {
 	potential = {
 		NOT = { has_dlc = "Leviathan" }
