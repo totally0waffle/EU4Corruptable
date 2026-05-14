@@ -1,0 +1,23 @@
+on_startup = {
+	events = {
+	}
+	effect = {
+		every_province = {
+			limit = {
+				trade_goods = fish
+			}
+			add_province_triggered_modifier = jewish_fish_modifier
+		}
+	}
+}
+
+on_post_conquest_or_occupation = {
+	effect = {
+		if = {
+			limit = {
+				trade_goods = fish
+			}
+			add_province_triggered_modifier = jewish_fish_modifier
+		}
+	}
+}
