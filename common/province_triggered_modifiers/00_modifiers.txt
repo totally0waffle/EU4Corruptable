@@ -867,14 +867,15 @@ cerro_rico_modifier = {
 	trade_goods_size = 3.0
 }
 
-jewish_fish = {
+jewish_fish_modifier = {
 	potential = {
+		always = yes 
 	}
 	trigger = {
-		religion = jewish
 		trade_goods = fish
+		owner = { religion = jewish }
 	}
-	trade_goods_size = 1
+	trade_goods_size_modifier = 1.0 
 }
 
 # Restored Great Mosque of Djenné for people without Leviathan
